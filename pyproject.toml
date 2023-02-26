@@ -9,7 +9,7 @@ packages = [{include = "project_with_poetry"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pytest = "^7.2.1"
-selene = "^1.0.2"
+selene = "2.0.0b16"
 
 
 [tool.poetry.group.dev.dependencies]
